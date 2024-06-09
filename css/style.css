@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-deepblue{background-color: #141f3b;
+
+}
+.bg-purple{
+    background: #5d327A;
+}
+
+fs-40{
+    font-size: 40px;
+}
+ul li{
+    list-style: none;
+}
+input{
+    border-radius: 0%;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    background-image: url(../img/banner-pkz5kd5mrL.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #df3272;
+}
+
+.nav-pills .nav-link {
+    background-color: #510485;
+    color: #fff;
+}
+/* section second start  */
+.second{
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../img/majestic-pyramid-shape-awe-inspiring-ancient-civilization-monument-generated-by-ai.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    width: 100%;
+    
+}
+.destination{
+    background-color: #10011a;
+}
+.destination p span{
+    color: goldenrod;
+}
+/* section second end */
+
+.airplane{
+    background: linear-gradient(rgb(116, 58, 157,0.7),rgba(116, 58, 157,0.7)) ,url(../img/istockphoto-1204030934-1024x1024.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+.estimate{
+    background-color: #983ed4;
+    color: #fff;
+}
+.estimate form input{
+    border-radius: none;
+
+}
